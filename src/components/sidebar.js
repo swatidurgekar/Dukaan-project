@@ -11,7 +11,7 @@ const Sidebar = () => {
           <Icon />
           <div className="company-frame">
             <p className="nishyam">Nishyan</p>
-            <a className="visit-store" href="#">
+            <a className="visit-store" href="/">
               Visit store
             </a>
           </div>
